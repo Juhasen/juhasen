@@ -1,7 +1,9 @@
 
   
 
-### <div align="center">I'm Krystian, a software developer 👨‍💻 , always learning and growing in my field.</div>  
+## <div align="center">Hi, I'm Krystian Juszczyk👋</div>  
+### <div align="center">👨‍🎓 Student at Lodz University of Technology | 👨‍💻 Up-and-coming Software Engineer </div>  
+
   
 
 - 🔭 I’m currently working on [Hotelowo](https://github.com/Juhasen/Hotelowo)  
@@ -71,9 +73,6 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/juhasen" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/krystian-juszczyk" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
