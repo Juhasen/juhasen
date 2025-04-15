@@ -6,7 +6,7 @@
 
   
 
-- 🔭 I’m currently working on [Hotelowo](https://github.com/Juhasen/Hotelowo)  
+- 🔭 I’m currently working on <b>Hotelowo</b>
   
 
 - 🌱 I’m currently learning Spring, Next.js and Kotlin  
