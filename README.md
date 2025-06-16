@@ -9,8 +9,7 @@
 - 🔭 I’m currently working on <b>Hotelowo</b> and <b>Quizownik</b>
   
 
-- 🌱 I’m currently learning Spring, Next.js and Kotlin  
-  
+- 🌱 I’m currently learning Spring and Next.js 
 
 - ⚡ Fun fact: Car enthusiast  
   
