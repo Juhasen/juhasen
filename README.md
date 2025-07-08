@@ -1,15 +1,14 @@
 
   
 
-## <div align="center">Hi, I'm Krystian Juszczyk👋</div>  
-### <div align="center">👨‍🎓 Student at Lodz University of Technology | 👨‍💻 Up-and-coming Software Engineer </div>  
+## <div align="center">Hi, I'm Krystian Juszczyk👋</div>   
+## <div align="center">![image](https://github.com/user-attachments/assets/27f91142-143e-44ce-af23-ee2cdf205d48)</div>   
+### <div align="center">👨‍💻 Golang Developer Intern</div>  
+### <div align="center">👨‍🎓 Student at Lodz University of Technology</div>  
 
+- 🔭 I’m currently working on <b>EchoCrud</b> and <b>Network related topics</b>
   
-
-- 🔭 I’m currently working on <b>Hotelowo</b> and <b>Quizownik</b>
-  
-
-- 🌱 I’m currently learning Spring and Next.js 
+- 🌱 I’m currently learning Go
 
 - ⚡ Fun fact: Car enthusiast  
   
