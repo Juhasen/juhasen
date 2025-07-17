@@ -6,7 +6,7 @@
 ### <div align="center">👨‍💻 Golang Developer Intern</div>  
 ### <div align="center">👨‍🎓 Student at Lodz University of Technology</div>  
 
-- 🔭 I’m currently working on <b>EchoCrud</b> and <b>Network related topics</b>
+- 🔭 I’m currently working on <b>Network related topics</b> and <b>App integrations with diffrent technologies like Kafka, Docker and other...</b>
   
 - 🌱 I’m currently learning Go
 
