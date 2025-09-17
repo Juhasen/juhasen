@@ -3,12 +3,12 @@
 
 ## <div align="center">Hi, I'm Krystian Juszczyk👋</div>   
 ## <div align="center">![image](https://github.com/user-attachments/assets/27f91142-143e-44ce-af23-ee2cdf205d48)</div>   
-### <div align="center">👨‍💻 Golang Developer Intern</div>  
+### <div align="center">👨‍💻 Junior Software Engineer</div>  
 ### <div align="center">👨‍🎓 Student at Lodz University of Technology</div>  
 
 - 🔭 I’m currently working on <b>Network related topics</b> and <b>App integrations with diffrent technologies like Kafka, Docker and other...</b>
   
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning Go, React Native
 
 - ⚡ Fun fact: Car enthusiast  
   
