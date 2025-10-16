@@ -6,11 +6,11 @@
 ### <div align="center">👨‍💻 Junior Software Engineer</div>  
 ### <div align="center">👨‍🎓 Student at Lodz University of Technology</div>  
 
-- 🔭 I’m currently working on <b>Network related topics</b> and <b>App integrations with diffrent technologies like Kafka, Docker and other...</b>
+- 🔭 I’m currently working on <b>[Recipeye](https://github.com/Recipeye)</b>
   
 - 🌱 I’m currently learning Go, React Native
 
-- ⚡ Fun fact: Car enthusiast  
+- ⚡ Fun fact: Car enthusiast
   
 
 <br/>  
