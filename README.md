@@ -3,7 +3,7 @@
 
 ## <div align="center">Hi, I'm Krystian Juszczyk👋</div>   
 ## <div align="center">![image](https://github.com/user-attachments/assets/27f91142-143e-44ce-af23-ee2cdf205d48)</div>   
-### <div align="center">👨‍💻 Junior Software Developer</div>  
+### <div align="center">👨‍💻 Junior Software Developer @ TTPSC</div>  
 ### <div align="center">👨‍🎓 Student at Lodz University of Technology</div>  
 
 - 🔭 I’m currently working on <b>[Recipeye](https://github.com/Recipeye)</b>
