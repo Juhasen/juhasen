@@ -23,7 +23,7 @@
 <div align="center" style="background-color: #f5f5f5; padding: 20px; border-radius: 10px; display: inline-block;">
 <table>
 <tr>
-  <td valign="top" width="450px">
+  <td valign="top" width="200px">
     <div align="center">
       <h3>Frontend</h3>
       <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
@@ -34,7 +34,7 @@
     </div>
   </td>
   
-  <td valign="top" width="300px">
+  <td valign="top" width="400px">
     <div align="center">  
       <h3>Backend</h3>
       <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Golang" height="50" /></a>
@@ -46,7 +46,7 @@
     </div>
   </td>
   
-  <td valign="top" width="200px">
+  <td valign="top" width="400px">
     <div align="center">  
       <h3>DevOps & Other</h3>  
       <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
