@@ -42,10 +42,9 @@
       <h3>Data & Streaming</h3>
       <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
       <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
-      <a href="https://dgraph.io/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/dgraph" alt="Dgraph" height="50" /></a>
       <a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" alt="Apache Kafka" height="50" /></a>
       <a href="https://airflow.apache.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" height="50" /></a>
-      <a href="https://druid.apache.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/apachedruid" alt="Apache Druid" height="50" /></a>
+      <a href="https://druid.apache.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/apachedruid" alt="Apache Druid" width="50" height="50" /></a>
     </div>
   </td>
   
