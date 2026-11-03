@@ -4,7 +4,8 @@
 ### <div align="center">🎓 Master's Degree Student at Lodz University of Technology</div>  
 
 - 🔭 Currently balancing commercial software development with Master's studies, focusing on professional growth and engineering craft
-- 🌱 Deepening **Go (Golang)** expertise and exploring **AI-augmented SDLC** — applying **AI-native workflows**, **spec-driven development**, and reusable agent **skills** with **Claude**, **Codex**, and **Antigravity**
+- 🤖 Proficient in **AI-Augmented & AI-Native SDLC** — shipping faster via **spec-driven development**, custom **agent skills**, and agentic workflows (**Claude**, **Codex**, **Antigravity**)
+- 🌱 Deepening **Go (Golang)** expertise
 - ⚡ Fun fact: Car enthusiast
 
 <br/>  
@@ -14,10 +15,21 @@
 </div>  
 
 ## My Skill Set  
+
+<div align="center">
+  <img src="https://img.shields.io/badge/AI--Native_SDLC-Spec--Driven_Dev-111827?style=for-the-badge" alt="Spec-Driven Development" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge" alt="Codex" />
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/Agent_Skills_%26_MCP-0F766E?style=for-the-badge" alt="Agent Skills & MCP" />
+</div>
+
+<br/>
+
 <div align="center" style="background-color: #f5f5f5; padding: 20px; border-radius: 10px; display: inline-block;">
 <table>
 <tr>
-  <td valign="top" width="220px">
+  <td valign="top" width="190px">
     <div align="center">
       <h3>Frontend</h3>
       <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
@@ -28,7 +40,7 @@
     </div>
   </td>
   
-  <td valign="top" width="220px">
+  <td valign="top" width="180px">
     <div align="center">  
       <h3>Backend</h3>
       <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Golang" height="50" /></a>
@@ -37,7 +49,7 @@
     </div>
   </td>
 
-  <td valign="top" width="240px">
+  <td valign="top" width="210px">
     <div align="center">  
       <h3>Data & Streaming</h3>
       <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
@@ -48,7 +60,7 @@
     </div>
   </td>
   
-  <td valign="top" width="220px">
+  <td valign="top" width="190px">
     <div align="center">  
       <h3>DevOps & Tools</h3>  
       <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
@@ -57,6 +69,15 @@
       <a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" /></a>
       <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
       <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+    </div>
+  </td>
+
+  <td valign="top" width="180px">
+    <div align="center">  
+      <h3>AI-Native SDLC</h3>  
+      <a href="https://www.anthropic.com/claude" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/claude/D97757" alt="Claude" width="50" height="50" /></a>
+      <a href="https://openai.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" alt="OpenAI Codex" height="50" /></a>
+      <a href="https://deepmind.google/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/googlegemini/4285F4" alt="Antigravity" width="50" height="50" /></a>
     </div>
   </td>
 </tr>
